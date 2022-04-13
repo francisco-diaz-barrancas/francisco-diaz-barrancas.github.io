@@ -61,9 +61,9 @@
                 <div class="profile_info">
                     <h1>Francisco Díaz Barrancas</h1>
                     <h4>PostDoc Researcher</h4>
-					<h4><a class="gilab-link" target="_blank" href="https://www.unex.es/conoce-la-uex/centros/cum">Centro Universitario de Mérida, University of Extremadura, Spain</a></h4>
+					<h4><a class="gilab-link" target="_blank" href="https://www.uni-giessen.de/index.html">Justus Liebig Universität, Gießen, Germany</a></h4>
                     
-					<h4><span class="fas fa-inbox fa-sm"></span>&nbsp;&nbsp;&nbsp;<a class="gilab-link"  target="_blank" href="mailto:frdiaz@unex.es">frdiaz@unex.es</a></h4>
+					<h4><span class="fas fa-inbox fa-sm"></span>&nbsp;&nbsp;&nbsp;<a class="gilab-link"  target="_blank" href="mailto:francisco.diaz-barrancas@psychol.uni-giessen.de"> francisco.diaz-barrancas@psychol.uni-giessen.de</a></h4>
 					<h6 style="padding-top:5px">
 						<a class="author-link" href="./pdf/cv.pdf" target="_blank"><i class="ai ai-cv-square big-icon fa-2x"></i></a>&nbsp&nbsp&nbsp
 						<a class="author-link" href="https://scholar.google.es/citations?user=7-bYEXMAAAAJ&hl=es#" target="_blank"><span class="ai ai-google-scholar fa-2x"></span></a>&nbsp&nbsp&nbsp		
@@ -128,8 +128,8 @@
 								<h4>SHORT BIO</h4>
 								<p>	
 									I received the B.S degree in computer engineer in 2017 and the M.S degree in computer technologies research in 2018, both from the University of Extremadura (UEx), Mérida, Spain.
-									I obtained his PhD with CUM LAUDE distinction and international mention in research related to light and color management in real-time rendering of 3D scenarios at the Centro Universitario de Mérida, Spain under the supervision of <a class="author-link" href="https://scholar.google.es/citations?hl=es&user=QfIc858AAAAJ" target="_blank">Dr. Pedro José Pardo Fernández</a>.							 
-									Currently, I am working at the Justus-Liebig University under the supervision of Prof. Karl Gegenfurtner as a PostDoc researcher, working on user perception and color constancy in virtual reality devices.
+									I got my PhD with CUM LAUDE distinction and international mention in research related to light and color management in real-time rendering of 3D scenarios in March 2022 at the Centro Universitario de Mérida, Spain under the supervision of <a class="author-link" href="https://scholar.google.es/citations?hl=es&user=QfIc858AAAAJ" target="_blank">Dr. Pedro José Pardo Fernández</a>.							 
+									Currently, I am working at the Justus-Liebig University under the supervision of <a class="author-link" href="https://www.allpsych.uni-giessen.de/karl/" target="_blank"> Prof. Karl Gegenfurtner </a> as a PostDoc Researcher in the ERC project "Color 3.0: An object-oriented approach to color", working on user perception and color constancy in virtual reality devices.
 								</p>
 								<h4>RESEARCH TOPICS</h4> 
 								<p>
@@ -139,8 +139,9 @@
 								
 								</p>								
 							</div>
-							<div class="tab-pane fade in active" id="bio">
-								<img src="images/logos/logo-uex.png" width= "35%" style="margin:0 2%"/> <img src="images/logos/logo-CUMe.png" width= "20%" style="margin:0 1% 0 0"/> <img src="images/logos/orion.png" width= "30%" style="margin:0 1%"/>
+							<div class="tab-pane fade in active" id="bio" >
+								<img src="images/logos/JLU.png" width= "35%" style="margin:0 10%;  "/> 
+                                <img src="images/logos/erc_logo.png" width= "35%" style="margin:0 1% 0 0"/><!-- <img src="images/logos/orion.png" width= "30%" style="margin:0 1%"/>-->
 															
 							</div>
 							
@@ -150,18 +151,18 @@
 									<i class="fas fa-map-marked-alt"></i>
 									
 									<p style="line-height:15px;text-align: center;">									
-									<b>Centro Universitario de Mérida</b><br> 
-									Research Building<br> 
-									Sta. Teresa Jornet Street, 38,<br> 
-									06800 Mérida, Badajoz<br> 
-									Spain</p>
+									<b>Justus-Liebig Universität</b><br> 
+									Graduate Centre for the Study of Culture (GCSC) der Justus-Liebig-Universität Gießen<br> 
+									Alter Steinbacher Weg, 38<br> 
+									35394 Gießen, Hessen<br> 
+									Germany</p>
 									
 									<p style="text-align: center;">
 									<i class="fa fa-phone"></i>
-									&nbsp; +34 924 38 70 68 - Ext. 82536</p>
+									&nbsp; +49 0641 9930041 - Ext. 26147</p>
 									<p style="text-align: center;">
 									<i class="fas fa-envelope-open-text"></i>
-									&nbsp; frdiaz@unex.es</p>
+									&nbsp; francisco.diaz-barrancas@psychol.uni-giessen.de</p>
 									
 							</div>
 						</div>
